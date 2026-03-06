@@ -106,7 +106,6 @@ This project helps reinforce:
 Special thanks to:
 - **Professor Abouhodhoud**
 - **Programming Advices**
-- **Berry 🍓** – Thank you for your encouragement and support.
 
 ---
 
